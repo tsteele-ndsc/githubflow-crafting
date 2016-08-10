@@ -12,7 +12,6 @@
 * Honda
 * Toyota
 
-
 # Fruits
 * Apple
 * Bananna
