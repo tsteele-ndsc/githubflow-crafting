@@ -1,23 +1,27 @@
 # **readme.md**
 
-# Pets
+## Pets
+
 * Dog
 * Parrot
 * Iguana
 * Snake
 * Fish
 
-# Cars
+## Cars
+
 * Jeep
 * Honda
 * Toyota
 
-# Fruits
+## Fruits
+
 * Apple
 * Bananna
 * Orange
 * Kiwi
 
-# Vacations
+## Vacations
+
 * Disney World
 * Grand Canyon
