@@ -1,13 +1,14 @@
 # readme.md
 
-## Foo
+# Foo
 
 * Bar
 * Cat
 
-### Dog
-### Parrot
-### Iguana
+# Pets
+* Dog
+* Parrot
+* Iguana
 
 # Cars
 * Jeep
