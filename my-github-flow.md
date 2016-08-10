@@ -12,7 +12,7 @@ There’s maybe some sort of TDD red-green-refactor analogy here. CCC – Change
  
 I’m constantly rewarded for this technique when asked to look at a different branch and not having to worry about what I was working on in my current branch. It has more than likely been committed and pushed or backed-up making it easy to change away from it.
  
-![Annotate GitHub Flow Picture](./github-flow-with-squash-me.png)
+![Annotated GitHub Flow Picture](./github-flow-with-squash-me.png)
  
 Then the question of who can accept pull request. 
  
