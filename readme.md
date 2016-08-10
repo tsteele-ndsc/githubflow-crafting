@@ -22,3 +22,4 @@
 
 # Vacation Destinations
 * Disney World
+* Grand Canyon
