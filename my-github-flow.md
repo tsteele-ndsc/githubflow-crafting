@@ -1,12 +1,16 @@
 # GitHub Flow ++
 
 ## GitHub Flow + Crafting Perfect Pull Requests + Presenting Your Code
+
+**A great way for teams to use Git!!!**
+
+---
  
 Basically **GitHub Flow** well documented here
  
 [guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/])
  
-With optional, but recommended merge squashes used to **craft the perfect pull request!**
+With optional, but recommended, merge squashes used to **craft the perfect pull request!**
  
 Merge squash especially useful if **diary commits** are used. And I believe they should be encouraged. Change something, comment and commit. Then do it again. 
  
@@ -37,4 +41,5 @@ A few things I haven’t thought too much about (yet) in our environment include
 * Possibly allowing pull requests to be submitted before presenting so that they can be rejected right away if they are not clean (perfect). I feel this might help evolve toward this from the current mass merge approach. And move everyone toward crafting commits and pull requests!
  
 Thanks,
+
 Tom
