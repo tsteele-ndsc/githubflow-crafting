@@ -8,11 +8,11 @@
 * Snake
 * Fish
 
-## Cars
+## Automobiles
 
-* Jeep
-* Honda
-* Toyota
+* Automobiles Jeep
+* Automobiles Honda
+* Automobiles Toyota
 
 ## Fruits
 
