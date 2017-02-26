@@ -8,7 +8,7 @@
  
 Basically **GitHub Flow** well documented here
  
-[GitHub Flow Documentation](https://guides.github.com/introduction/flow/index.html])
+[GitHub Flow Documentation](https://guides.github.com/introduction/flow/index.html)
  
 With optional, but recommended, merge squashes used to **craft the perfect pull request!**
  
